@@ -35,30 +35,39 @@
   color: rgba(212, 76, 71, 1);
 }
 .gray-background {
+  color: rgb(28, 56, 41);
   background: rgba(241, 241, 239, 1) !important;
 }
 .brown-background {
+  color: rgb(28, 56, 41);
   background: rgba(244, 238, 238, 1) !important;
 }
 .orange-background {
+  color: rgb(28, 56, 41);
   background: rgba(251, 236, 221, 1) !important;
 }
 .yellow-background {
+  color: rgb(28, 56, 41);
   background: rgba(251, 243, 219, 1) !important;
 }
 .green-background {
+  color: rgb(28, 56, 41);
   background: rgba(237, 243, 236, 1) !important;
 }
 .blue-background {
+  color: rgb(28, 56, 41);
   background: rgba(231, 243, 248, 1) !important;
 }
 .purple-background {
+  color: rgb(28, 56, 41);
   background: rgba(244, 240, 247, 0.8) !important;
 }
 .pink-background {
+  color: rgb(28, 56, 41);
   background: rgba(249, 238, 243, 0.8) !important;
 }
 .red-background {
+  color: rgb(28, 56, 41);
   background: rgba(253, 235, 236, 1) !important;
 }
 
